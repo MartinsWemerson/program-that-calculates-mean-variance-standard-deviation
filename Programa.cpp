@@ -39,6 +39,8 @@ soma = soma / (sizeof (alturas) / 4);
   
 cout << "Variancia: " << soma << endl;
 
+cout << "Desvio Padrao: " << sqrt(soma);
+
 }
 
 
